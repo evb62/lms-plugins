@@ -24,4 +24,4 @@ Plugin page:
 Scroll to the end of the "Manage Plugins" page in the LMS WebUI. Find the "Additional Repositories" and fill the line with the repository address:
 https://raw.githubusercontent.com/evb62/lms-plugins/main/public.xml.
 
-Then enable the plugin.
+Accept the restart prompt, then enable the plugin.
