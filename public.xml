@@ -4,17 +4,17 @@
     <title lang="EN">Elon Brisola's LMS Plugins</title>
   </details>
   <plugins>
-    <plugin name="QueueConsume" version="1.0.4" minTarget="8.0.0" maxTarget="*">
+    <plugin name="QueueConsume" version="1.0.0" minTarget="8.0.0" maxTarget="*">
       <title lang="EN">Queue Consume</title>
       <desc lang="EN">Removes each track from the play queue once it has finished playing or has been skipped. After installing the plugin, enable in the Player WebUI -> Extra Settings.</desc>
       <category>misc</category>
       <creator>Elon Brisola</creator>
-      <url>https://github.com/evb62/lms-queue-consume/releases/download/v1.0.4/QueueConsume-1.0.4.zip</url>
-      <sha>DD0FB99426E67DE5966B6CD11A4DE36FF562B19C</sha>
+      <url>https://github.com/evb62/lms-queue-consume/releases/download/v1.0.0/QueueConsume-1.0.0.zip</url>
+      <sha>9676F3A7579D41E0D719171C18E5D3A7D103D0A4</sha>
     </plugin>
       <plugin name="DSDTranscode" version="1.0.0" minTarget="8.0.0" maxTarget="*">
       <title lang="EN">DSD Transcode</title>
-      <desc lang="EN">EXPERIMENTAL. On-the-fly transcoding of DSD files compressed in WavPack to PCM, enabling use of software volume control. After installing the plugin, enable in the Player WebUI -> Extra Settings.</desc>
+      <desc lang="EN">On-the-fly transcoding of DSD files compressed in WavPack to PCM, enabling use of software volume control. After installing the plugin, enable in the Player WebUI -> Extra Settings.</desc>
       <category>misc</category>
       <creator>Elon Brisola</creator>
       <url>https://github.com/evb62/lms-dsdtranscode/releases/download/v1.0.0/DSDTranscode-1.0.0.zip</url>
