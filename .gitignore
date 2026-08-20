@@ -1,5 +1,0 @@
-# Ignore cache, logs and prefs files
-Cache/*
-Logs/*
-prefs/*
-Plugins/*
