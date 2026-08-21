@@ -12,12 +12,12 @@
       <url>https://github.com/evb62/lms-queue-consume/releases/download/v1.0.0/QueueConsume-1.0.0.zip</url>
       <sha>9676F3A7579D41E0D719171C18E5D3A7D103D0A4</sha>
     </plugin>
-      <plugin name="DSDTranscode" version="1.0.0" minTarget="8.0.0" maxTarget="*">
+      <plugin name="DSDTranscode" version="1.0.2" minTarget="8.0.0" maxTarget="*">
       <title lang="EN">DSD Transcode</title>
       <desc lang="EN">On-the-fly transcoding of DSD files compressed in WavPack to PCM, enabling use of software volume control. After installing the plugin, enable in the Player WebUI -> Extra Settings.</desc>
       <category>misc</category>
       <creator>Elon Brisola</creator>
-      <url>https://github.com/evb62/lms-dsdtopcm/releases/download/v1.0.0/DSDTranscode-1.0.0.zip</url>
-      <sha>2DB6C7E390D046C9F11B37701F3264390FE08EAA</sha>
+      <url>https://github.com/evb62/lms-dsdtopcm/releases/download/v1.0.2/DSDTranscode-1.0.2.zip</url>
+      <sha>C0283DD83E692C3D25257DB4088BC7C821E24460</sha>
     </plugin></plugins>
 </extensions>
