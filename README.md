@@ -4,7 +4,9 @@
 A track leaves the play queue once it has
 finished playing or has been skipped with 'Next' (and optionally with 'Previous').
 
-After installing the plugin, other settings will be available in the Player WebUI -> Extra Settings.
+After installing the plugin, other settings will be available in the WebUI for the Server and the Player:
+- Server Settings -> Manage Plugins -> Queue Consume
+- Player Settings -> Extra Settings -> Queue Consume
 
 Plugin page:
 [Queue Consume](https://github.com/evb62/lms-queue-consume)
